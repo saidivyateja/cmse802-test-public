@@ -6,3 +6,5 @@ c = True
 
 #print(a + b)
 #print(b + c)
+
+print('value of a is:',a)
